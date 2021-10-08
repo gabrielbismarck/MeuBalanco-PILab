@@ -1,6 +1,6 @@
 # MeuBalanço-PILab
 
-Esse projeto foi desenvolvido exclusivamente para a segunda fase do processo seletivo do Laboratório de Inteligência Pública (PILab). A ideia era construir um protótipo de um app capaz de organizar as entradas e saídas de dinheiro de uma pessoa. A tipografia e a paleta de cores foram baseadas no exemplo disponibilizada pela organização do processo. 
+Esse projeto foi desenvolvido exclusivamente para a segunda fase do processo seletivo do Laboratório de Inteligência Pública (PILab). A ideia era construir um protótipo de um app capaz de organizar as entradas e saídas de dinheiro de uma pessoa. A tipografia e a paleta de cores foram baseadas no exemplo disponibilizado pela organização do processo. A logo da moeda foi criada a partir de formas geométricas e utilizado a fonte Raleway para o símbolo "$". Todas as imagens são de minha autoria. Os ícones são do plugin feather icons.
 
 ### Assista ao pitch
 [Vídeo com Música - HQ](https://youtu.be/VLuczhJkeVc)
